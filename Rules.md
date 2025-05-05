@@ -16,4 +16,4 @@ For a better experience, follow these simple rules:
 4. **Switch users using `su username`**
 - Instead of exiting the docker image and using the loging interface again, simply use the `su` command.
 
-**Tip:** Save every flag you find, could be useful.
+  **Tip:** Save every flag you find, could be useful.
