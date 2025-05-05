@@ -41,7 +41,7 @@ Unlike traditional CTFs that focus solely on cybersecurity, this edition of NCC 
 ```bash
 docker pull wissamecdh/ncc-2025
 ```
-3. Run the following command:
+3. Run it:
 ```bash
 docker run -it wissamecdh/ncc-2025
 ```
