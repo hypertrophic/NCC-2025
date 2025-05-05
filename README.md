@@ -14,13 +14,13 @@ This is the same version used during the live event, try it out at your own pace
 The North Coding Challenge follows a Capture The Flag (CTF) format hosted on a Linux machine. Each level is assigned to a unique user in the machine. Solving the challenge associated with a user will give you a flag, which also serves as the password to access the next user's environment.
 
 ### Level Structure
-Level 0: `user0` hosts the first challenge
+- Level 0: `user0` hosts the first challenge
 --> Solving it reveals `pswd1`
 
-Level 1: Login as `user1` using `pswd1`
+- Level 1: Login as `user1` using `pswd1`
 --> Solving it provides `pswd2`
 
-Level 2: Login as `user2` using `pswd2`
+- Level 2: Login as `user2` using `pswd2`
 ... and so on.
 
 Each level is isolated and authored individually.
