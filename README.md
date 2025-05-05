@@ -16,10 +16,10 @@ The North Coding Challenge follows a Capture The Flag (CTF) format hosted on a L
 ### Level Structure
 Level 0: `user0` hosts the first challenge
 Solving it reveals `pswd1`
-  
+
 Level 1: Login as `user1` using `pswd1`
-Solving this provides `pswd2`
-  
+Solving it provides `pswd2`
+
 Level 2: Login as `user2` using `pswd2`
 ... and so on.
 
