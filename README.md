@@ -1,4 +1,4 @@
-# NCC 2025
+# NCC 2025 
 
 **The official CTF from NCC 2025 is now public!**
 
