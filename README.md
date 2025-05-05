@@ -1,9 +1,9 @@
 # NCC 2025
 
-The official CTF from NCC 2025 is now public!
+**The official CTF from NCC 2025 is now public!**
 
-In the second edition of NCC (North Coding Challenge – 2025), you will explore a variety of IT fields through a personalized Linux-based CTF.
-This is the same version used during the live NCC 2025 event, and it's now open to anyone who wants to try it! Try it at your own pace and learn something new.
+The second edition of NCC (North Coding Challenge – 2025) features a CTF that breaks away from traditional formats by exploring various IT fields, not just cybersecurity.
+This is the same version used during the live event, try it out at your own pace and learn something new.
 
 **Built by [@hypertrophic](https://github.com/hypertrophic)**, proudly for ECDH.
 
@@ -15,23 +15,23 @@ The North Coding Challenge follows a Capture The Flag (CTF) format hosted on a L
 
 ### Level Structure
 Level 0: `user0` hosts the first challenge
-  Solving it reveals `pswd1`
+Solving it reveals `pswd1`
   
 Level 1: Login as `user1` using `pswd1`
-  Solving this provides pswd2
+Solving this provides `pswd2`
   
 Level 2: Login as `user2` using `pswd2`
-  ... and so on.
+... and so on.
 
 Each level is isolated and authored individually.
 
 ### Areas Covered
 Unlike traditional CTFs that focus solely on cybersecurity, this edition of NCC aims to provide a broader exploration of the IT landscape. The challenges will touch on:
-Linux fundamentals and system usage
-Cryptography
-Cybersecurity concepts and practices
-Networking principles and tools
-Coding and scripting techniques
+- Linux fundamentals and system usage
+- Cryptography
+- Cybersecurity concepts and practices
+- Networking principles and tools
+- Coding and scripting techniques
 
 ## Quick Start
 
@@ -46,5 +46,5 @@ docker pull wissamecdh/ncc-2025
 docker run -it wissamecdh/ncc-2025
 ```
 ## Login:
-Username: ncc0
-Password: ncc0
+- Username: ncc0
+- Password: ncc0
