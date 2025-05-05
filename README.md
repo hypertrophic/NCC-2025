@@ -45,6 +45,11 @@ docker pull wissamecdh/ncc-2025
 ```bash
 docker run -it wissamecdh/ncc-2025
 ```
-## Login:
+## Login to start the CTF:
 - Username: ncc0
 - Password: ncc0
+
+## Flags
+There are **20 main flags** to find, plus **7 bonus flags** hidden across the system.
+Need help with a level? Want to verify a bonus flag?
+Join our [Discord server](https://discord.gg/Xn5VWrS8JK) for hints, support, or to share your progress!
