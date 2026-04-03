@@ -52,4 +52,4 @@ docker run -it wissamecdh/ncc-2025
 ## Flags
 There are **20 main flags** to find, plus **7 bonus flags** hidden across the system.
 Need help with a level? Want to verify a bonus flag?
-Contact us on: it@ecdh.ma
+Contact us on: kikijo.wb@gmail.com
